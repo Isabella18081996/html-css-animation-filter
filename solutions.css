@@ -178,19 +178,19 @@ transition: 1s;
     left: 10%;
     top: -10px;
 }
-30% {
+20% {
     left: calc(100% - 40px);
     top: -10px;
 }
-45% {
+40% {
     left: calc(100% - 40px);
     top: 100%;
 }
-75% {
+60% {
     left: 0;
     top: 100%;
 }
-90% {
+80% {
     left: -15px;
     top: -10px;
 }
@@ -209,19 +209,19 @@ transition: 1s;
     right: 10%;
     bottom: -10px;
 }
-30% {
+20% {
     right: calc(100% - 40px);
     bottom: -10px;
 }
-45% {
+40% {
     right: calc(100% - 40px);
     bottom: 100%;
 }
-75% {
+60% {
     right: 0;
     bottom: 100%;
 }
-90% {
+80% {
     right: -15px;
     bottom: -10px;
 }
